@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0040-combination-sum-ii) |
 ## Math
 |  |
@@ -67,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +97,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
