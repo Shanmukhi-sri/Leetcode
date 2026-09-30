@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0040-combination-sum-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
