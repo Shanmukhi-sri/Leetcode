@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0040-combination-sum-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
@@ -17,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
