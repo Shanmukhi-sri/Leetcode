@@ -37,10 +37,12 @@
 | [0009-palindrome-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0013-roman-to-integer) |
+| [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
