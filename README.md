@@ -67,6 +67,7 @@
 | [0062-unique-paths](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0069-sqrtx) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -130,6 +131,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
