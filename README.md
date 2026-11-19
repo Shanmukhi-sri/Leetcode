@@ -45,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -90,6 +91,7 @@
 | [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
