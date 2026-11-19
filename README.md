@@ -29,6 +29,7 @@
 | [0064-minimum-path-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@
 | [0036-valid-sudoku](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
