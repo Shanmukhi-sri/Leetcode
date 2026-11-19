@@ -31,6 +31,7 @@
 | [0068-text-justification](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
