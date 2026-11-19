@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0041-first-missing-positive) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
