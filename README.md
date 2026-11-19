@@ -27,6 +27,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0066-plus-one) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@
 | [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0066-plus-one) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
