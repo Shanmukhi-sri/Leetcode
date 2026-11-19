@@ -60,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0062-unique-paths) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -153,6 +154,7 @@
 | [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0062-unique-paths) |
 ## Primality Test
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
