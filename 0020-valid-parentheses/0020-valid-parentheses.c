@@ -51,4 +51,3 @@ int isValid(char* s) {
     if (f == 0 && top == -1) return 1;
     else return 0;
 }
-
