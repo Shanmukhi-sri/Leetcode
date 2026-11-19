@@ -21,6 +21,7 @@
 | [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0055-jump-game) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0055-jump-game) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@
 | [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0055-jump-game) |
 ## Primality Test
 |  |
 | ------- |
