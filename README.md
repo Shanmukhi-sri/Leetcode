@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
