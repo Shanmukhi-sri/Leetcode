@@ -16,6 +16,7 @@
 | [0036-valid-sudoku](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Backtracking
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 ## Primality Test
 |  |
 | ------- |
