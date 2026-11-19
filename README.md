@@ -34,6 +34,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0118-pascals-triangle) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@
 | [0063-unique-paths-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0118-pascals-triangle) |
 ## Primality Test
 |  |
 | ------- |
