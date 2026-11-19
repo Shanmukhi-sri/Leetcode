@@ -51,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0050-powx-n) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -84,6 +85,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
