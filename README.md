@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
 ## Primality Test
 |  |
 | ------- |
