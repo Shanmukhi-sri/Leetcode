@@ -40,6 +40,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0136-single-number) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -257,6 +258,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0136-single-number) |
 ## Newton's Method
 |  |
 | ------- |
