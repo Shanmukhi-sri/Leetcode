@@ -51,6 +51,7 @@
 | [0061-rotate-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0067-add-binary](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
