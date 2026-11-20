@@ -62,6 +62,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0125-valid-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
