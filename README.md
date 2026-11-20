@@ -43,6 +43,7 @@
 | [0136-single-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@
 | [0067-add-binary](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -211,6 +213,7 @@
 | [0143-reorder-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
