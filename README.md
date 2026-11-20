@@ -46,6 +46,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@
 | [0069-sqrtx](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
