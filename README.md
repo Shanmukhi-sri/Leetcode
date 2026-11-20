@@ -60,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | [0056-merge-intervals](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -364,4 +368,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
