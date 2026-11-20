@@ -50,6 +50,7 @@
 | [0162-find-peak-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@
 | [0141-linked-list-cycle](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0147-insertion-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -409,4 +413,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
