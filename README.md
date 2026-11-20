@@ -49,6 +49,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
