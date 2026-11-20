@@ -44,6 +44,7 @@
 | [0137-single-number-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -238,6 +239,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Primality Test
 |  |
 | ------- |
