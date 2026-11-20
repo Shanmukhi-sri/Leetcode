@@ -110,6 +110,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
