@@ -38,6 +38,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@
 | [0049-group-anagrams](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -309,4 +311,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
