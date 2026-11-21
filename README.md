@@ -63,6 +63,7 @@
 | [0289-game-of-life](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -247,6 +248,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Trie
 |  |
 | ------- |
@@ -477,6 +480,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -557,16 +561,20 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
