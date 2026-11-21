@@ -114,11 +114,13 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
@@ -323,6 +325,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
 ## Quicksort
 |  |
 | ------- |
