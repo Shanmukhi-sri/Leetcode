@@ -73,6 +73,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -410,6 +411,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0419-battleships-in-a-board) |
 ## Simulation
 |  |
 | ------- |
@@ -491,6 +493,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0419-battleships-in-a-board](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0419-battleships-in-a-board) |
 ## Binary Tree
 |  |
 | ------- |
