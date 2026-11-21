@@ -67,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -608,6 +609,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
