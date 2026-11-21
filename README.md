@@ -74,6 +74,7 @@
 | [0413-arithmetic-slices](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -192,6 +193,7 @@
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [0014-longest-common-prefix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -446,6 +449,7 @@
 | [0342-power-of-four](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Newton's Method
 |  |
 | ------- |
