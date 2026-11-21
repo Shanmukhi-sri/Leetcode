@@ -124,6 +124,7 @@
 | [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -516,4 +517,24 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
