@@ -72,6 +72,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0414-third-maximum-number) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -335,6 +336,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
