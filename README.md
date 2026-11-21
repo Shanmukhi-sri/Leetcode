@@ -105,6 +105,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
