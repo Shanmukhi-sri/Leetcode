@@ -56,6 +56,7 @@
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@
 | [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -148,6 +150,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0162-find-peak-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +350,7 @@
 | [0137-single-number-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
