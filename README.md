@@ -184,6 +184,7 @@
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -254,12 +255,14 @@
 | [0388-longest-absolute-file-path](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Trie
 |  |
 | ------- |
