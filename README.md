@@ -55,6 +55,7 @@
 | [0228-summary-ranges](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0260-single-number-iii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -342,6 +343,7 @@
 | [0136-single-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0260-single-number-iii) |
 ## Newton's Method
 |  |
 | ------- |
