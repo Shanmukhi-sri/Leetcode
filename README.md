@@ -142,6 +142,7 @@
 | [0342-power-of-four](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0390-elimination-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0390-elimination-game) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -217,6 +218,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0390-elimination-game) |
 ## String
 |  |
 | ------- |
