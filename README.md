@@ -116,6 +116,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0263-ugly-number) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
