@@ -53,6 +53,7 @@
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -426,10 +429,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 ## Design
 |  |
 | ------- |
