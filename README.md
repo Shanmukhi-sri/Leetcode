@@ -146,6 +146,7 @@
 | [0371-sum-of-two-integers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0390-elimination-game) |
+| [0412-fizz-buzz](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0412-fizz-buzz) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -260,6 +261,7 @@
 | [0392-is-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [0068-text-justification](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0412-fizz-buzz) |
 ## Quicksort
 |  |
 | ------- |
