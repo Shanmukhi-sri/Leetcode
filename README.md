@@ -157,6 +157,7 @@
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0299-bulls-and-cows) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0165-compare-version-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
@@ -484,6 +486,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
