@@ -75,6 +75,7 @@
 | [0414-third-maximum-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -197,6 +198,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Stack
 |  |
 | ------- |
