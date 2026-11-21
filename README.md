@@ -137,6 +137,7 @@
 | [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -400,6 +401,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Newton's Method
 |  |
 | ------- |
