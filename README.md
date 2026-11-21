@@ -143,6 +143,7 @@
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
