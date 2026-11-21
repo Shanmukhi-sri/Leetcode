@@ -70,6 +70,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -326,6 +327,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Stack
 |  |
 | ------- |
@@ -625,11 +627,13 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Ordered Set
 |  |
 | ------- |
