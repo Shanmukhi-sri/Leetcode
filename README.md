@@ -316,6 +316,7 @@
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0338-counting-bits) |
 ## Primality Test
 |  |
 | ------- |
@@ -377,6 +378,7 @@
 | [0260-single-number-iii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0338-counting-bits) |
 ## Newton's Method
 |  |
 | ------- |
