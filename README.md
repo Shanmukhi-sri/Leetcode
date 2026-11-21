@@ -71,6 +71,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0413-arithmetic-slices) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -269,6 +270,7 @@
 | [0076-minimum-window-substring](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Primality Test
 |  |
 | ------- |
