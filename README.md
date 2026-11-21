@@ -111,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 | [0866-prime-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0866-prime-palindrome) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Number Theory
@@ -169,6 +170,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [0090-subsets-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 ## Newton's Method
 |  |
 | ------- |
