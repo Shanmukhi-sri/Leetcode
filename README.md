@@ -291,6 +291,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -458,6 +459,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
