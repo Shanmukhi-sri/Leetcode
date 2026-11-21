@@ -247,6 +247,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0388-longest-absolute-file-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0388-longest-absolute-file-path](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0388-longest-absolute-file-path) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -462,6 +464,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
 | ------- |
