@@ -66,6 +66,7 @@
 | [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@
 | [0344-reverse-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0299-bulls-and-cows](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -295,6 +299,7 @@
 | [0274-h-index](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
