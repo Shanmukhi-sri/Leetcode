@@ -59,6 +59,7 @@
 | [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@
 | [0165-compare-version-numbers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [0231-power-of-two](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -453,6 +457,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -469,6 +474,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
