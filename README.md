@@ -62,6 +62,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -243,6 +244,7 @@
 | [0278-first-bad-version](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Trie
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -547,4 +551,20 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
