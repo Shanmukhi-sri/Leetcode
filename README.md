@@ -269,6 +269,7 @@
 | [0409-longest-palindrome](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
