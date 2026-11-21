@@ -180,6 +180,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [0344-reverse-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -541,6 +543,7 @@
 | [0299-bulls-and-cows](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -557,6 +560,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Lifting
 |  |
 | ------- |
