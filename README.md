@@ -181,6 +181,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0383-ransom-note](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | [0338-counting-bits](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0389-find-the-difference) |
 ## Newton's Method
 |  |
 | ------- |
