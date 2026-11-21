@@ -61,6 +61,7 @@
 | [0275-h-index-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shanmukhi-sri/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -241,6 +242,7 @@
 | [0275-h-index-ii](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Primality Test
 |  |
 | ------- |
@@ -540,4 +543,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0292-nim-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shanmukhi-sri/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
